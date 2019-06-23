@@ -9,4 +9,7 @@ public class FirstClass {
         System.out.println("hello git project");
 
     }
+    public static  void getBigMOm(){
+        System.out.println("呵呵");
+    }
 }
